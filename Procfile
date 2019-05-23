@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT ninix_3726.wsgi:application
